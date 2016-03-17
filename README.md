@@ -1,3 +1,6 @@
-# Ecommerce_jdbc
-# Ecommerce_jdbc
-# Ecommerce_jdbc
+# Ecommerce jdbc
+
+Projet Application Java Ecommerce/JDBC
+
+Réalisé à l'IUT de Vélizy 
+
