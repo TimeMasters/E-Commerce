@@ -1,6 +1,5 @@
-# Ecommerce jdbc
+# E-Commerce 
 
-Projet Application Java Ecommerce/JDBC
-
-Réalisé à l'IUT de Vélizy 
+Little java application to understand to learn JDBC and study database operations.
+Realised at IUT de Vélizy 
 
